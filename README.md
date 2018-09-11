@@ -1,4 +1,4 @@
-# movie DB Interface
+# movie DB Interface (WIP)
 
 ## Project description
 Web application written in Vue.js/Typescript that allows users to query basic information about movies and tv series from themoviedb.org's API
